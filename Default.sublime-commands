@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Unescape: Unescape Selected Text",
+        "command": "unescape_selection"
+    },
+    {
+        "caption": "Escape: Escape Selected Text",
+        "command": "escape_selection"
+    }
+]
